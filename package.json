@@ -10,14 +10,14 @@
     "commander": "^2.15.0",
     "fs": "0.0.1-security",
     "keccak": "^1.4.0",
-    "minimatch": "^3.0.4",
+    "minimatch": "^10.2.2",
     "moment-timezone": "^0.5.14",
     "promise": "^7.3.1",
     "properties": "^1.2.1",
     "randomstring": "^1.1.5",
     "request": "^2.85.0",
     "request-promise": "^4.2.2",
-    "web3": "^0.18.2"
+    "web3": "^4.16.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
